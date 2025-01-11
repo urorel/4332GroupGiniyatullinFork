@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SvenAventador\\Desktop\\4332Group\\4332Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\svenaventador\\desktop\\4332group\\4332project\\4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\svenaventador\\desktop\\4332group\\4332project\\4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\SvenAventador\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "4332Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\SvenAventador\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml",
+              "RelativeToolTip": "4332Project\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T16:29:27.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SvenAventador\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "4332Project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SvenAventador\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "4332Project\\MainWindow.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:29:26.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
