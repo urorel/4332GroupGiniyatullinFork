@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace _4332Project
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Novikov_4332.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Novikov_4332 : Window
     {
-        public MainWindow()
+        public Novikov_4332()
         {
             InitializeComponent();
         }
-        private void ShowAuthorInfo_Click(object sender, RoutedEventArgs e)
-        {
-            var newForm = new Novikov_4332(); //create your new form.
-            newForm.Show(); //show the new form
-        }
-
     }
 }
