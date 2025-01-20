@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ignat\\4332Group\\4332Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Shared\\4332Group\\4332Project\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\ignat\\4332Group\\4332Project\\4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\ignat\\4332group\\4332project\\4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\dimno\\OneDrive\\Рабочий стол\\4332Group\\4332Project\\4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\ignat\\4332Group\\4332Project\\4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\dimno\\OneDrive\\Рабочий стол\\4332Group\\4332Project\\4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\dimno\\OneDrive\\Рабочий стол\\4332Group\\4332Project\\4332project\\novikov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\novikov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,6 +32,22 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Novikov_4332.xaml",
+              "DocumentMoniker": "C:\\Users\\dimno\\OneDrive\\Рабочий стол\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
+              "RelativeDocumentMoniker": "4332Project\\Novikov_4332.xaml",
+              "ToolTip": "C:\\Users\\dimno\\OneDrive\\Рабочий стол\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
+              "RelativeToolTip": "4332Project\\Novikov_4332.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T19:01:05.906Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -34,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\4332Group\\4332Project\\4332Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4332Project\\MainWindow.xaml.cs",

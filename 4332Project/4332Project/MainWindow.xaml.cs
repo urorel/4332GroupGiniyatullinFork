@@ -29,5 +29,11 @@ namespace _4332Project
         {
             MessageBox.Show("Имя: Игнат\nВозраст: 18 лет");
         }
+
+        private void ShowAuthorInfo_Click(object sender, RoutedEventArgs e)
+        {
+            var newForm = new Novikov_4332(); //create your new form.
+            newForm.Show(); //show the new form
+        }
     }
 }
