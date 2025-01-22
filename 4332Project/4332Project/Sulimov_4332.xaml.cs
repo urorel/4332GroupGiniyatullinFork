@@ -10,36 +10,29 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace _4332Project
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Sulimov_4332.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Sulimov_4332 : Window
     {
-        public MainWindow()
+        public Sulimov_4332()
         {
             InitializeComponent();
         }
-
-        private void SidorovButton_Click(object sender, RoutedEventArgs e)
+        private void SulimovButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Имя: Игнат\nВозраст: 18 лет");
+            MessageBox.Show("Имя: Арсений\nВозраст: 18 лет");
         }
 
         private void ShowAuthorInfo_Click(object sender, RoutedEventArgs e)
         {
-            var newForm = new Novikov_4332();
-            newForm.Show();
+            var newForm = new Sulimov_4332(); 
+            newForm.Show(); 
         }
 
-        private void SulimovButton_Click(object sender, RoutedEventArgs e)
-        {
-            var newForm = new Sulimov_4332();
-            newForm.Show();
-        }
     }
 }
