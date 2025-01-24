@@ -41,5 +41,10 @@ namespace _4332Project
             var newForm = new Sulimov_4332();
             newForm.Show();
         }
+
+        private void RomanovButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            new Romanov_4332().Show();
+        }
     }
 }
