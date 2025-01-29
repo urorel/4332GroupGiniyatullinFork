@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using _4332Project.Students;
 
 namespace _4332Project
 {
@@ -45,6 +46,11 @@ namespace _4332Project
         private void RomanovButton_OnClick(object sender, RoutedEventArgs e)
         {
             new Romanov_4332().Show();
+        }
+
+        private void ZaripovButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            new Zaripov_4332().Show();
         }
     }
 }
