@@ -59,3 +59,28 @@ D:\Лабы\3 курс\2 Семестр\ИСРПО\Лаба 1\quest6\4332Group\4
 D:\Лабы\3 курс\2 Семестр\ИСРПО\Лаба 1\quest6\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.CoreCompileInputs.cache
 D:\Лабы\3 курс\2 Семестр\ИСРПО\Лаба 1\quest6\4332Group\4332Project\4332Project\obj\Debug\4332Project.exe
 D:\Лабы\3 курс\2 Семестр\ИСРПО\Лаба 1\quest6\4332Group\4332Project\4332Project\obj\Debug\4332Project.pdb
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\bin\Debug\4332Project.exe.config
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\bin\Debug\4332Project.exe
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\bin\Debug\4332Project.pdb
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.AssemblyReference.cache
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\MainWindow.g.cs
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Novikov_4332.g.cs
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Romanov_4332.g.cs
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Sayfut4332.g.cs
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Sulimov_4332.g.cs
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Zaripov_4332.g.cs
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\App.g.cs
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project_MarkupCompile.cache
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project_MarkupCompile.lref
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\MainWindow.baml
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Novikov_4332.baml
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Romanov_4332.baml
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Sulimov_4332.baml
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Zaripov_4332.baml
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\Students\Sayfut4332.baml
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project.g.resources
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\_4332Project.Properties.Resources.resources
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.GenerateResource.cache
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.CoreCompileInputs.cache
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project.exe
+C:\Users\Sayfu\OneDrive\Рабочий стол\4332Group\4332Project\4332Project\obj\Debug\4332Project.pdb
