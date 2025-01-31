@@ -35,5 +35,6 @@
         <Button Grid.Row="1" Content="Новиков" Width="100" Height="30" Click="ShowAuthorInfo_Click" />
         <Button  Grid.Row="3" Width="100" x:Name="SulimovButton" Content="Арсений" Click="SulimovButton_Click"/>
         <Button Grid.Row="13" Width="200" x:Name="RomanovButton" Content="Романов" Click="RomanovButton_OnClick"/>
+        <Button Grid.Row="15" Width="200" x:Name="SalakhovButton" Content="Салахов" Click="SalakhovButton_Click"></Button>
     </Grid>
 </Window>

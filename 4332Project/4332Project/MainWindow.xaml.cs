@@ -52,5 +52,10 @@ namespace _4332Project
         {
             new Zaripov_4332().Show();
         }
+
+        private void SalakhovButton_Click(object sender, RoutedEventArgs e)
+        {
+            new Salakhov_4332().Show();
+        }
     }
 }
