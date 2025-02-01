@@ -57,5 +57,10 @@ namespace _4332Project
         {
             new Sayfut4332().Show();
         }
+        
+        private void SalakhovButton_Click(object sender, RoutedEventArgs e)
+        {
+            new Salakhov_4332().Show();
+        }
     }
 }
