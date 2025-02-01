@@ -52,5 +52,10 @@ namespace _4332Project
         {
             new Zaripov_4332().Show();
         }
+
+        private void SayfutdinovaButton_Click(object sender, RoutedEventArgs e)
+        {
+            new Sayfut4332().Show();
+        }
     }
 }
