@@ -25,7 +25,11 @@ namespace _4332Project
         {
             InitializeComponent();
         }
-
+        private void HananovButton_Click(object sender, RoutedEventArgs e)
+        {
+            var newForm = new Hananov_4332();
+            newForm.Show();
+        }
         private void SidorovButton_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Имя: Игнат\nВозраст: 18 лет");

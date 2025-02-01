@@ -55,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Students\Hananov_4332.xaml.cs">
+      <DependentUpon>Hananov_4332.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Students\Novikov_4332.xaml.cs">
       <DependentUpon>Novikov_4332.xaml</DependentUpon>
     </Compile>
@@ -85,16 +88,20 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Students\Hananov_4332.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Students\Novikov_4332.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Students\Romanov_4332.xaml">
-     <SubType>Designer</SubType>
+      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Students\Sayfut4332.xaml">
-     <SubType>Designer</SubType>
+      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Students\Salakhov_4332.xaml">
