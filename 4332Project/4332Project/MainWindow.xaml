@@ -37,6 +37,11 @@
         <Button Grid.Row="13" Width="200" x:Name="RomanovButton" Content="Романов" Click="RomanovButton_OnClick"/>
         <Button Grid.Row="14" Width="200" x:Name="SayfutdinovaButton" Content="Сайфутдинова" Click="SayfutdinovaButton_Click"/>
         <Button Grid.Row="15" Width="200" x:Name="SalakhovButton" Content="Салахов" Click="SalakhovButton_Click"></Button>
+        <Button Grid.Row="19"
+                Width="200"
+                x:Name="HananovButton"
+                Content="Хананов"
+                Click="HananovButton_Click"></Button>
         <Button x:Name="StepanovButton" Content="Степанов" HorizontalAlignment="Center" Margin="0,15,0,0" Grid.RowSpan="2" Grid.Row="10" VerticalAlignment="Top" Width="290" Click="StepanovButton_Click"/>
     </Grid>
 </Window>

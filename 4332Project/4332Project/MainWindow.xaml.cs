@@ -66,5 +66,9 @@ namespace _4332Project
         {
             new Stepanov_4332().Show();    
         }
+        private void HananovButton_Click(object sender, RoutedEventArgs e)
+        {
+            new Hananov_4332().Show();
+        }
     }
 }

@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\",
+  "WorkspaceRootPath": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\taksa\\desktop\\mat_lib\\geometric_lib\\stepanovv4332\\4332group\\4332group\\4332project\\4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\taksa\\desktop\\mat_lib\\geometric_lib\\stepanovv4332\\4332group\\4332group\\4332project\\4332project\\students\\stepanov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\maximovrs\\source\\repos\\4332group123\\4332project\\4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\maximovrs\\source\\repos\\4332group123\\4332project\\4332project\\students\\hananov_4332.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\students\\hananov_4332.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\maximovrs\\source\\repos\\4332group123\\4332project\\4332project\\students\\hananov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\students\\hananov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\maximovrs\\source\\repos\\4332group123\\4332project\\4332project\\students\\stepanov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\students\\stepanov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332project\\students\\sayfut4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332project\\students\\sayfut4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\students\\sayfut4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332project\\students\\zaripov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332project\\students\\zaripov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\students\\zaripov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -39,8 +47,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -50,99 +74,126 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Stepanov_4332.xaml",
-              "DocumentMoniker": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\Students\\Stepanov_4332.xaml",
-              "RelativeDocumentMoniker": "4332Project\\Students\\Stepanov_4332.xaml",
-              "ToolTip": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\Students\\Stepanov_4332.xaml",
-              "RelativeToolTip": "4332Project\\Students\\Stepanov_4332.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-01T18:14:02.627Z",
+              "Title": "Hananov_4332.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Hananov_4332.xaml.cs",
+              "RelativeDocumentMoniker": "4332Project\\Students\\Hananov_4332.xaml.cs",
+              "ToolTip": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Hananov_4332.xaml.cs",
+              "RelativeToolTip": "4332Project\\Students\\Hananov_4332.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:57:06.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Sulimov_4332.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
-              "ToolTip": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T08:49:23.42Z"
+              "DocumentIndex": 3,
+              "Title": "Hananov_4332.xaml",
+              "DocumentMoniker": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Hananov_4332.xaml",
+              "RelativeDocumentMoniker": "4332Project\\Students\\Hananov_4332.xaml",
+              "ToolTip": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Hananov_4332.xaml",
+              "RelativeToolTip": "4332Project\\Students\\Hananov_4332.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T17:57:02.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Stepanov_4332.xaml",
+              "DocumentMoniker": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Stepanov_4332.xaml",
+              "RelativeDocumentMoniker": "4332Project\\Students\\Stepanov_4332.xaml",
+              "ToolTip": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Stepanov_4332.xaml",
+              "RelativeToolTip": "4332Project\\Students\\Stepanov_4332.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T17:56:39.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4332Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "4332Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T19:01:05.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "4332Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\MainWindow.xaml*",
-              "RelativeToolTip": "4332Project\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\MainWindow.xaml",
+              "RelativeToolTip": "4332Project\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-11T16:29:26.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "Sulimov_4332.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
+              "ToolTip": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:49:23.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Sulimov_4332.xaml",
               "DocumentMoniker": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml",
               "ToolTip": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Sulimov_4332.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-22T08:46:16.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Novikov_4332.xaml",
               "DocumentMoniker": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
               "ToolTip": "C:\\Users\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\arsfx\\OneDrive\\Desktop\\4332Group\\4332Project\\4332Project\\Novikov_4332.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-22T09:11:05.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Sayfut4332.xaml",
-              "DocumentMoniker": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\Students\\Sayfut4332.xaml",
+              "DocumentMoniker": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Sayfut4332.xaml",
               "RelativeDocumentMoniker": "4332Project\\Students\\Sayfut4332.xaml",
-              "ToolTip": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\Students\\Sayfut4332.xaml",
+              "ToolTip": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Sayfut4332.xaml",
               "RelativeToolTip": "4332Project\\Students\\Sayfut4332.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-31T10:22:49.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T10:22:49.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Zaripov_4332.xaml",
-              "DocumentMoniker": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\Students\\Zaripov_4332.xaml",
+              "DocumentMoniker": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Zaripov_4332.xaml",
               "RelativeDocumentMoniker": "4332Project\\Students\\Zaripov_4332.xaml",
-              "ToolTip": "C:\\Users\\Taksa\\Desktop\\mat_lib\\geometric_lib\\Stepanovv4332\\4332Group\\4332Group\\4332Project\\4332Project\\Students\\Zaripov_4332.xaml",
+              "ToolTip": "C:\\Users\\maximovrs\\source\\repos\\4332Group123\\4332Project\\4332Project\\Students\\Zaripov_4332.xaml",
               "RelativeToolTip": "4332Project\\Students\\Zaripov_4332.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-31T10:22:55.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T10:22:55.315Z"
             }
           ]
         }
