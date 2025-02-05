@@ -37,6 +37,8 @@
         <Button Grid.Row="13" Width="200" x:Name="RomanovButton" Content="Романов" Click="RomanovButton_OnClick"/>
         <Button Grid.Row="14" Width="200" x:Name="SayfutdinovaButton" Content="Сайфутдинова" Click="SayfutdinovaButton_Click"/>
         <Button Grid.Row="15" Width="200" x:Name="SalakhovButton" Content="Салахов" Click="SalakhovButton_Click"></Button>
+        <Button Grid.Row="10" Width="200" Background="LightPink" x:Name="MikhaylovaButton" Content="Михайлова" Click="MikhaylovaButton_Click_1"></Button>
+        
         <Button Grid.Row="19"
                 Width="200"
                 x:Name="HananovButton"
