@@ -70,5 +70,9 @@ namespace _4332Project
         {
             new Hananov_4332().Show();
         }
+        private void MikhaylovaButton_Click_1(object sender, RoutedEventArgs e)
+        {
+            new Mikhaylova4332().Show();
+        }
     }
 }
