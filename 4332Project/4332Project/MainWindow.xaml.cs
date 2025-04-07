@@ -61,6 +61,10 @@ namespace _4332Project
         {
             new Salakhov_4332().Show();
         }
+        private void GiniyatullinButton_Click(object sender, RoutedEventArgs e)
+        {
+            new Giniyatullin_4332().Show();
+        }
 
         private void StepanovButton_Click(object sender, RoutedEventArgs e)
         {
